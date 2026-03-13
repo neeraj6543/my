@@ -1,0 +1,3805 @@
+{
+  "root_url": "https://auts.ac.in",
+  "total_pages_scanned": 41,
+  "response_time_ms": 3326.9453999819234,
+  "redirect_count": 0,
+  "pages": [
+    {
+      "url": "https://auts.ac.in",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Inline JS event handler found",
+          "detail": "Inline JS attribute 'onmouseover' present in tag <marquee>.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in"
+        }
+      ]
+    },
+    {
+      "url": "tel:1800-2020-100",
+      "status": 0,
+      "issues": [
+        {
+          "level": "warning",
+          "title": "Could not fetch page",
+          "detail": "Request failed or timed out.",
+          "page": "tel:1800-2020-100"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/chemistry/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/chemistry/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/commerce-and-management/commerce/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        },
+        {
+          "level": "info",
+          "title": "Admin-like URL detected",
+          "detail": "Path '/academics/commerce-and-management/commerce/' looks like admin/panel. Ensure strong authentication & access control.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/commerce/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/punjabi/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/punjabi/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/engineering-and-technology/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/medical-sciences/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/medical-sciences/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/apply-to-akal-university/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/apply-to-akal-university/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/physiotherapy/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/social-science/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/social-science/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/about/unique-at-au/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/about/unique-at-au/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/about/chancellors-message/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/about/chancellors-message/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/governance/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/governance/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/governance/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/mathematics/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/mathematics/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/psychology/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/psychology/"
+        }
+      ]
+    },
+    {
+      "url": "https://business.auts.ac.in/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://business.auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://business.auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://business.auts.ac.in/"
+        }
+      ]
+    },
+    {
+      "url": "mailto:info@auts.ac.in",
+      "status": 0,
+      "issues": [
+        {
+          "level": "warning",
+          "title": "Could not fetch page",
+          "detail": "Request failed or timed out.",
+          "page": "mailto:info@auts.ac.in"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/multidisciplinary-studies/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/about/recognitions-approvals/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/about/recognitions-approvals/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/about/about-us/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/about-us/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/about/about-us/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Inline JS event handler found",
+          "detail": "Inline JS attribute 'onmouseover' present in tag <marquee>.",
+          "page": "https://auts.ac.in/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/after-102/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-102/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/after-102/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/after-graduation/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/after-graduation/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/after-graduation/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/commerce-and-management/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        },
+        {
+          "level": "info",
+          "title": "Admin-like URL detected",
+          "detail": "Path '/academics/commerce-and-management/' looks like admin/panel. Ensure strong authentication & access control.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/paramedical-sciences/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/paramedical-sciences/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Inline JS event handler found",
+          "detail": "Inline JS attribute 'onmouseover' present in tag <marquee>.",
+          "page": "https://auts.ac.in"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/education/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/education/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "Admin-like URL detected",
+          "detail": "Path '/academics/commerce-and-management/bachelor-of-business-administration/' looks like admin/panel. Ensure strong authentication & access control.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        },
+        {
+          "level": "info",
+          "title": "Admin-like page content",
+          "detail": "Page title/heading suggests admin/dashboard. Verify authentication.",
+          "page": "https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/economics/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/economics/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        },
+        {
+          "level": "info",
+          "title": "No cookies set",
+          "detail": "No Set-Cookie header in response.",
+          "page": "https://auts.ac.in/wp-content/uploads/2025/06/AU_Act.pdf"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/about/founders/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/founders/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/about/founders/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/about/the-kalgidhar-society/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/about/the-kalgidhar-society/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/humanities/english/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/humanities/english/"
+        }
+      ]
+    },
+    {
+      "url": "https://auts.ac.in/academics/sciences/physics/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "info",
+          "title": "HSTS not enabled",
+          "detail": "Consider enabling HSTS.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: LiteSpeed.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "warning",
+          "title": "Old jQuery detected",
+          "detail": "Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://auts.ac.in/academics/sciences/physics/"
+        }
+      ]
+    }
+  ],
+  "dns_info": {
+    "domain": "auts.ac.in",
+    "has_dns": true,
+    "nameservers": [
+      "ns2.dns-parking.com.",
+      "ns1.dns-parking.com."
+    ],
+    "has_whois": true,
+    "registrar": "ERNET India",
+    "creation_date": "2015-07-31 11:34:21.826000+00:00",
+    "expiration_date": "2034-07-31 11:34:21.826000+00:00"
+  },
+  "stats": {
+    "total": 580,
+    "good": 78,
+    "info": 240,
+    "warning": 262,
+    "critical": 0
+  },
+  "overall_risk": "critical",
+  "risk_score": 100,
+  "top_issues": [
+    {
+      "title": "Old jQuery detected",
+      "level": "warning",
+      "count": 223,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "HSTS not enabled",
+      "level": "info",
+      "count": 39,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "X-Frame-Options not set",
+      "level": "info",
+      "count": 39,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "Referrer-Policy missing",
+      "level": "info",
+      "count": 39,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "Server header exposed",
+      "level": "info",
+      "count": 39,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "Partial cookie flags",
+      "level": "info",
+      "count": 38,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "Form without visible CSRF token",
+      "level": "info",
+      "count": 38,
+      "example_page": "https://auts.ac.in"
+    },
+    {
+      "title": "Possible secret in page source",
+      "level": "warning",
+      "count": 37,
+      "example_page": "https://auts.ac.in"
+    }
+  ]
+}

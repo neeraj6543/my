@@ -1,0 +1,374 @@
+==== Cyber Ultra Security Report ====
+Target       : https://auts.ac.in/
+Total pages  : 41
+Overall risk : CRITICAL (score: 100/100)
+
+Issue counts:
+  total    : 579
+  good     : 78
+  info     : 239
+  warning  : 262
+  critical : 0
+
+DNS / WHOIS:
+  domain        : auts.ac.in
+  registrar     : ERNET India
+  creation_date : 2015-07-31 11:34:21.826000+00:00
+  expiry_date   : 2034-07-31 11:34:21.826000+00:00
+  nameservers   :
+    - ns1.dns-parking.com.
+    - ns2.dns-parking.com.
+
+Top repeating issues (by count):
+  - [WARNING] Old jQuery detected (count: 223, example: https://auts.ac.in/)
+  - [INFO] HSTS not enabled (count: 39, example: https://auts.ac.in/)
+  - [INFO] X-Frame-Options not set (count: 39, example: https://auts.ac.in/)
+  - [INFO] Referrer-Policy missing (count: 39, example: https://auts.ac.in/)
+  - [INFO] Server header exposed (count: 39, example: https://auts.ac.in/)
+  - [INFO] Partial cookie flags (count: 38, example: https://auts.ac.in/)
+  - [INFO] Form without visible CSRF token (count: 38, example: https://auts.ac.in/)
+  - [WARNING] Possible secret in page source (count: 37, example: https://auts.ac.in/)
+
+Per-page high risk summary (warning/critical only):
+
+  Page: https://auts.ac.in/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/about/founders/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/english/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/governance/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://business.auts.ac.in/ (status: 200)
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://business.auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/about/the-kalgidhar-society/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/psychology/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/multidisciplinary-studies/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/apply-to-akal-university/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/about/chancellors-message/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/engineering-and-technology/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/chemistry/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/after-graduation/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/physics/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/engineering-and-technology/computer-science-engineering/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/punjabi/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/paramedical-sciences/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/after-102/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/commerce-and-management/bachelor-of-business-administration/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/about/unique-at-au/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/about/about-us/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/physics/activity-achievements-and-research-papers/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/after-post-graduation/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/about/recognitions-approvals/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/social-science/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/mathematics/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/education/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: tel:1800-2020-100 (status: 0)
+    - [WARNING] Could not fetch page: Request failed or timed out.
+
+  Page: mailto:info@auts.ac.in (status: 0)
+    - [WARNING] Could not fetch page: Request failed or timed out.
+
+  Page: https://auts.ac.in/academics/commerce-and-management/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/paramedical-sciences/physiotherapy/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/economics/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/humanities/sri-guru-granth-sahib-studies/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/paramedical-sciences/medical-lab-technology/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/commerce-and-management/commerce/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.
+
+  Page: https://auts.ac.in/academics/sciences/medical-sciences/ (status: 200)
+    - [WARNING] Possible secret in page source: Found keyword 'api_key' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3. Consider updating.
+    - [WARNING] Old jQuery detected: Script src looks like old jQuery: https://auts.ac.in/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.3. Consider updating.

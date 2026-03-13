@@ -1,0 +1,68 @@
+==== Cyber Ultra Security Report ====
+Target       : https://www.dermoxiefy.com/science-backed-skincare
+Total pages  : 8
+Overall risk : CRITICAL (score: 100/100)
+
+Issue counts:
+  total    : 64
+  good     : 18
+  info     : 26
+  warning  : 20
+  critical : 0
+
+DNS / WHOIS:
+  domain        : dermoxiefy.com
+  registrar     : HOSTINGER operations, UAB
+  creation_date : 2025-11-07 16:46:25+00:00
+  expiry_date   : 2026-11-07 16:46:25+00:00
+  nameservers   :
+    - ns2.dns-parking.com.
+    - ns1.dns-parking.com.
+
+Top repeating issues (by count):
+  - [WARNING] Weak CSP (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [INFO] X-Frame-Options not set (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [INFO] Referrer-Policy missing (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [INFO] Server header exposed (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [INFO] Partial cookie flags (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [WARNING] Possible secret in page source (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [WARNING] Dangerous JS patterns (count: 6, example: https://www.dermoxiefy.com/science-backed-skincare)
+  - [WARNING] Could not fetch page (count: 2, example: mailto:Contact@dermoxiefy.com)
+
+Per-page high risk summary (warning/critical only):
+
+  Page: https://www.dermoxiefy.com/science-backed-skincare (status: 200)
+    - [WARNING] Weak CSP: CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).
+    - [WARNING] Possible secret in page source: Found keyword 'token' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Dangerous JS patterns: Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.
+
+  Page: https://www.dermoxiefy.com/science-backed-skincare (status: 200)
+    - [WARNING] Weak CSP: CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).
+    - [WARNING] Possible secret in page source: Found keyword 'token' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Dangerous JS patterns: Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.
+
+  Page: mailto:Contact@dermoxiefy.com (status: 0)
+    - [WARNING] Could not fetch page: Request failed or timed out.
+
+  Page: https://www.dermoxiefy.com/dermoxiefy-contact (status: 200)
+    - [WARNING] Weak CSP: CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).
+    - [WARNING] Possible secret in page source: Found keyword 'token' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Dangerous JS patterns: Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.
+
+  Page: https://www.dermoxiefy.com/ (status: 200)
+    - [WARNING] Weak CSP: CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).
+    - [WARNING] Possible secret in page source: Found keyword 'token' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Dangerous JS patterns: Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.
+
+  Page: mailto:Support@dermoxiefy.com (status: 0)
+    - [WARNING] Could not fetch page: Request failed or timed out.
+
+  Page: https://www.dermoxiefy.com/dermatologist-support (status: 200)
+    - [WARNING] Weak CSP: CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).
+    - [WARNING] Possible secret in page source: Found keyword 'token' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Dangerous JS patterns: Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.
+
+  Page: https://www.dermoxiefy.com/dermoxiefy- (status: 200)
+    - [WARNING] Weak CSP: CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).
+    - [WARNING] Possible secret in page source: Found keyword 'token' in HTML/JS. Check for hard-coded secrets.
+    - [WARNING] Dangerous JS patterns: Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.

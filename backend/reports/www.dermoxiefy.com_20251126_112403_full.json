@@ -1,0 +1,511 @@
+{
+  "root_url": "https://www.dermoxiefy.com/science-backed-skincare",
+  "total_pages_scanned": 8,
+  "response_time_ms": 1038.189599988982,
+  "redirect_count": 0,
+  "pages": [
+    {
+      "url": "https://www.dermoxiefy.com/science-backed-skincare",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "good",
+          "title": "HSTS enabled",
+          "detail": "Strict-Transport-Security header is set.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "warning",
+          "title": "Weak CSP",
+          "detail": "CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: openresty.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'token' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "warning",
+          "title": "Dangerous JS patterns",
+          "detail": "Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dermoxiefy.com/science-backed-skincare",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "good",
+          "title": "HSTS enabled",
+          "detail": "Strict-Transport-Security header is set.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "warning",
+          "title": "Weak CSP",
+          "detail": "CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: openresty.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'token' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        },
+        {
+          "level": "warning",
+          "title": "Dangerous JS patterns",
+          "detail": "Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.",
+          "page": "https://www.dermoxiefy.com/science-backed-skincare"
+        }
+      ]
+    },
+    {
+      "url": "mailto:Contact@dermoxiefy.com",
+      "status": 0,
+      "issues": [
+        {
+          "level": "warning",
+          "title": "Could not fetch page",
+          "detail": "Request failed or timed out.",
+          "page": "mailto:Contact@dermoxiefy.com"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dermoxiefy.com/dermoxiefy-contact",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "good",
+          "title": "HSTS enabled",
+          "detail": "Strict-Transport-Security header is set.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "warning",
+          "title": "Weak CSP",
+          "detail": "CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: openresty.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'token' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "warning",
+          "title": "Dangerous JS patterns",
+          "detail": "Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-contact"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dermoxiefy.com/",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "good",
+          "title": "HSTS enabled",
+          "detail": "Strict-Transport-Security header is set.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "warning",
+          "title": "Weak CSP",
+          "detail": "CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: openresty.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'token' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "warning",
+          "title": "Dangerous JS patterns",
+          "detail": "Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.",
+          "page": "https://www.dermoxiefy.com/"
+        },
+        {
+          "level": "info",
+          "title": "Form without visible CSRF token",
+          "detail": "Form found without an obvious CSRF field (heuristic).",
+          "page": "https://www.dermoxiefy.com/"
+        }
+      ]
+    },
+    {
+      "url": "mailto:Support@dermoxiefy.com",
+      "status": 0,
+      "issues": [
+        {
+          "level": "warning",
+          "title": "Could not fetch page",
+          "detail": "Request failed or timed out.",
+          "page": "mailto:Support@dermoxiefy.com"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dermoxiefy.com/dermatologist-support",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "good",
+          "title": "HSTS enabled",
+          "detail": "Strict-Transport-Security header is set.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "warning",
+          "title": "Weak CSP",
+          "detail": "CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: openresty.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'token' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        },
+        {
+          "level": "warning",
+          "title": "Dangerous JS patterns",
+          "detail": "Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.",
+          "page": "https://www.dermoxiefy.com/dermatologist-support"
+        }
+      ]
+    },
+    {
+      "url": "https://www.dermoxiefy.com/dermoxiefy-",
+      "status": 200,
+      "issues": [
+        {
+          "level": "good",
+          "title": "HTTPS enabled",
+          "detail": "Page uses HTTPS.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "good",
+          "title": "HSTS enabled",
+          "detail": "Strict-Transport-Security header is set.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "good",
+          "title": "CSP present",
+          "detail": "Content-Security-Policy header exists.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "warning",
+          "title": "Weak CSP",
+          "detail": "CSP contains unsafe directives (unsafe-inline/unsafe-eval or *).",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "info",
+          "title": "X-Frame-Options not set",
+          "detail": "Consider SAMEORIGIN or DENY to prevent clickjacking.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "info",
+          "title": "Referrer-Policy missing",
+          "detail": "Add Referrer-Policy to reduce leakage of referrers.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "info",
+          "title": "Server header exposed",
+          "detail": "Server header reveals: openresty.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "info",
+          "title": "Partial cookie flags",
+          "detail": "Cookies have some but not all recommended flags.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "warning",
+          "title": "Possible secret in page source",
+          "detail": "Found keyword 'token' in HTML/JS. Check for hard-coded secrets.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        },
+        {
+          "level": "warning",
+          "title": "Dangerous JS patterns",
+          "detail": "Page contains patterns like document.write/innerHTML/eval which may enable XSS if combined with untrusted input.",
+          "page": "https://www.dermoxiefy.com/dermoxiefy-"
+        }
+      ]
+    }
+  ],
+  "dns_info": {
+    "domain": "dermoxiefy.com",
+    "has_dns": true,
+    "nameservers": [
+      "ns2.dns-parking.com.",
+      "ns1.dns-parking.com."
+    ],
+    "has_whois": true,
+    "registrar": "HOSTINGER operations, UAB",
+    "creation_date": "2025-11-07 16:46:25+00:00",
+    "expiration_date": "2026-11-07 16:46:25+00:00"
+  },
+  "stats": {
+    "total": 64,
+    "good": 18,
+    "info": 26,
+    "warning": 20,
+    "critical": 0
+  },
+  "overall_risk": "critical",
+  "risk_score": 100,
+  "top_issues": [
+    {
+      "title": "Weak CSP",
+      "level": "warning",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "X-Frame-Options not set",
+      "level": "info",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "Referrer-Policy missing",
+      "level": "info",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "Server header exposed",
+      "level": "info",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "Partial cookie flags",
+      "level": "info",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "Possible secret in page source",
+      "level": "warning",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "Dangerous JS patterns",
+      "level": "warning",
+      "count": 6,
+      "example_page": "https://www.dermoxiefy.com/science-backed-skincare"
+    },
+    {
+      "title": "Could not fetch page",
+      "level": "warning",
+      "count": 2,
+      "example_page": "mailto:Contact@dermoxiefy.com"
+    }
+  ]
+}
